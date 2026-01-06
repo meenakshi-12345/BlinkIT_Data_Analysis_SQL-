@@ -105,8 +105,8 @@ BlinkIT-Data-Analysis/
 ---
 
 ## 👩‍💻 Author
-MEENAKSHI RAJPUROHIT
-FINAL YEAR BTECH CSE STUDENT 
-CONTACT - imeenakshii28@gmail.com
+MEENAKSHI RAJPUROHIT |
+FINAL YEAR BTECH CSE STUDENT |
+CONTACT - imeenakshii28@gmail.com |
 Aspiring Data Analyst | SQL & Data Analytics Enthusiast
 
