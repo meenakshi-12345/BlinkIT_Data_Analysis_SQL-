@@ -35,7 +35,7 @@ The dataset contains BlinkIT sales data with attributes such as:
 
 ## 📁 Project Structure
 
-
+'''
 BlinkIT-Data-Analysis/
 │
 ├── data/
@@ -51,6 +51,7 @@ BlinkIT-Data-Analysis/
 ├── README.md
 ├── INSIGHTS.md
 └── LICENSE
+'''
 
 
 
